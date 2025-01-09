@@ -7,3 +7,6 @@ jobs:
         steps:
             - name: Display value
               run: echo "Actions ready"
+            
+            - name: Display more data
+              run: echo "More values"
